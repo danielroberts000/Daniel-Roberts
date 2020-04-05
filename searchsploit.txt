@@ -1,0 +1,26 @@
+------------------------------------------------------ ----------------------------------------
+ Exploit Title                                        |  Path
+                                                      | (/usr/share/exploitdb/)
+------------------------------------------------------ ----------------------------------------
+[01;31m[KWordPress[m[K 3.[01;31m[K4.2[m[K - Cross-Site Request Forgery          | exploits/php/webapps/37835.html
+[01;31m[KWordPress[m[K 3.[01;31m[K4.2[m[K - Multiple Path Disclosure Vulnerabil | exploits/php/webapps/37826.txt
+[01;31m[KWordPress[m[K [01;31m[K4.2[m[K - Persistent Cross-Site Scripting       | exploits/php/webapps/36844.txt
+[01;31m[KWordPress[m[K Plugin BackUp[01;31m[KWordPress[m[K 0.[01;31m[K4.2[m[Kb - Remote File | exploits/php/webapps/4593.txt
+[01;31m[KWordPress[m[K Plugin Extra User Details 0.[01;31m[K4.2[m[K - Privilege | exploits/php/webapps/39489.py
+[01;31m[KWordPress[m[K Plugin Foxypress 0.4.1.1 < 0.[01;31m[K4.2[m[K.1 - Arbitr | exploits/php/webapps/18991.php
+[01;31m[KWordPress[m[K Plugin Is-human 1.[01;31m[K4.2[m[K - Remote Command Exec | exploits/php/webapps/17299.txt
+[01;31m[KWordPress[m[K Plugin Paid Memberships Pro 1.7.1[01;31m[K4.2[m[K - Dire | exploits/php/webapps/35303.txt
+[01;31m[KWordPress[m[K Plugin Traffic Analyzer 3.[01;31m[K4.2[m[K - Blind SQL I | exploits/php/webapps/36677.txt
+[01;31m[KWordPress[m[K Plugin Tribulant Newsletters 4.6.[01;31m[K4.2[m[K - File | exploits/php/webapps/42129.txt
+[01;31m[KWordPress[m[K Plugin Ultimate Product Catalog [01;31m[K4.2[m[K.24 - PH | exploits/php/webapps/43065.py
+[01;31m[KWordPress[m[K Plugin Ultimate Product Catalogue [01;31m[K4.2[m[K.2 - S | exploits/php/webapps/[01;31m[K422[m[K63.txt
+[01;31m[KWordPress[m[K Plugin User Role Editor < [01;31m[K4.2[m[K5 - Privilege  | exploits/php/webapps/44595.rb
+[01;31m[KWordPress[m[K Plugin VideoWhisper [01;31m[K4.2[m[K7.3 - Multiple Vulne | exploits/php/webapps/31986.txt
+[01;31m[KWordPress[m[K Plugin WHOIS 1.[01;31m[K4.2[m[K 3 - 'domain' Cross-Site  | exploits/php/webapps/36488.txt
+[01;31m[KWordPress[m[K Plugin Yet Another Related Posts [01;31m[K4.2[m[K.4 - Cr | exploits/php/webapps/36954.txt
+[01;31m[KWordPress[m[K Plugin Zingiri Web Shop 2.[01;31m[K4.2[m[K - Persistent  | exploits/php/webapps/18806.txt
+[01;31m[KWordPress[m[K Plugin foxypress 0.[01;31m[K4.2[m[K.5 - Multiple Vulnera | exploits/php/webapps/22374.txt
+[01;31m[KWordPress[m[K Theme F8 Lite [01;31m[K4.2[m[K.1 - 's' Cross-Site Script | exploits/php/webapps/36180.txt
+[01;31m[KWordpress[m[K Plugin Media File Manager 1.[01;31m[K4.2[m[K - Directory | exploits/php/webapps/45809.txt
+------------------------------------------------------ ----------------------------------------
+Shellcodes: No Result
