@@ -15,3 +15,4 @@ I figured a good place to start would be to attack the Admin password of Word pr
 - Next I wanted to see if i could get a Shell from the browswer and I figured the easiest way would be to find a section of the site that would allow me to upload php script
 - I was able to find a section under Appearance and Editor. The easiest one to remember in here was the 404.php templte. i removed the default script and added the p0wny script there instead. (https://imgur.com/owDHwiO)
 - From there it was a matter of navigating to that php page to get my shell. didn't even have to be logged in as admin to get to it. (https://imgur.com/Ifc4pNT) Shell (https://imgur.com/kk2FfHu)
+- Running 'ls' command from shell (https://imgur.com/FyMyCup)
