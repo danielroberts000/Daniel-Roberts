@@ -2,6 +2,7 @@
 
 Once the vagrant machines were up and running I used the Vagrant SSH command to log into my machine and get the ip address to attack(https://imgur.com/3bNg8pZ)
 - I was able to use that IP to run my wpscan (https://github.com/danielroberts000/Daniel-Roberts/blob/master/wpscan_wordpress.txt) Image(https://imgur.com/1UL1z4M)
+- Next was going to use searchsploit to find some potential vulnerabilities (Image(https://imgur.com/LxdYrmS)
 
 
 
