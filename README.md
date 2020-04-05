@@ -20,4 +20,4 @@ I figured a good place to start would be to attack the Admin password of Word pr
 3.) Attacking the Core
 - Next I wanted see if i could exploit vulnerabilities that was found with metasploit. The one that stood out to me the most was the Persistent Cross-Site Scripting which was number 36844 in the exploitdb
 - so the first step was to go to exploitdb.com to see if I could get any information about that particular exploit and it turns out it had a lot of information on the expoit as well as a usefull script. (https://imgur.com/L1eIrfc)
-- So I took that script and filled in the number of characaters that were needed and posted that in the comments section of the webpage.. things happened pretty quick from there. 
+- So I took that script and filled in the number of characaters that were needed and posted that in the comments section of the webpage..Script looked like this (https://github.com/danielroberts000/Daniel-Roberts/blob/master/message.txt) things happened pretty quick from there and the end result was this popup whenever anyone tried to click on anything (https://imgur.com/Hb9g6Op)
