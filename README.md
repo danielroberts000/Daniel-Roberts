@@ -16,3 +16,8 @@ I figured a good place to start would be to attack the Admin password of Word pr
 - I was able to find a section under Appearance and Editor. The easiest one to remember in here was the 404.php templte. i removed the default script and added the p0wny script there instead. (https://imgur.com/owDHwiO)
 - From there it was a matter of navigating to that php page to get my shell. didn't even have to be logged in as admin to get to it. (https://imgur.com/Ifc4pNT) Shell (https://imgur.com/kk2FfHu)
 - Running 'ls' command from shell (https://imgur.com/FyMyCup)
+
+3.) Attacking the Core
+- Next I wanted see if i could exploit vulnerabilities that was found with metasploit. The one that stood out to me the most was the Persistent Cross-Site Scripting which was number 36844 in the exploitdb
+- so the first step was to go to exploitdb.com to see if I could get any information about that particular exploit and it turns out it had a lot of information on the expoit as well as a usefull script. (https://imgur.com/L1eIrfc)
+- So I took that script and filled in the number of characaters that were needed and posted that in the comments section of the webpage.. things happened pretty quick from there. 
